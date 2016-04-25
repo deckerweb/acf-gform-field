@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Advanced Custom Fields: Gravity Forms Field
-Plugin URI: #
+Plugin URI: https://github.com/apmeyer/acf-gform-field
 Description: Select from your Gravity Forms
 Version: 1.0.0
 Author: Adam Meyer
